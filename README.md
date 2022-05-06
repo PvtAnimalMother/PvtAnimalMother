@@ -2,6 +2,9 @@
 
 I'm Leonid Belousov. A Frontend-developer in FoodTech Lab LLC
 
+My skills: 
+* [⚛️](https://reactjs.org/)
+
 <!--
 **PvtAnimalMother/PvtAnimalMother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
